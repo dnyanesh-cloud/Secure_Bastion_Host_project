@@ -9,11 +9,6 @@ This project demonstrates a secure AWS architecture where:
 
 ---
 
-## 🏗 Architecture Diagram
-![Architecture](architecture.png)
-
----
-
 ## ⚙️ Tech Stack
 - AWS EC2
 - AWS VPC
@@ -117,18 +112,5 @@ bastion-project/
  ├── documentation.pdf            # Detailed implementation guide
  ├── architecture.png             # High-level architecture diagram
  └── screenshots/                 # Implementation screenshots
-     ├── architecture.png
-     ├── ec2.png
-     ├── PublicSubnets.png
-     ├── PrivateSubnets.png
-     ├── BastionSG.png
-     ├── AppSG.png
-     ├── bastion-ssh.png
-     ├── private-ssh.png
-     ├── AppServerSetup.png
-     ├── AppServerExternalEccess.png
-     ├── iam-role.png
-     ├── iam-role-modify.png
-     ├── S3-Bucket.png
-     └── s3-access.png
+   
 ```
